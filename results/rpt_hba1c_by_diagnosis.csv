@@ -1,0 +1,10 @@
+primary_diagnosis_group,stays,stays_tested,pct_tested,rate_tested_pct,rate_not_tested_pct
+Diabetes,8661,2739,31.6,9.60,14.72
+Respiratory,13934,2477,17.8,7.39,10.64
+Circulatory,29681,5230,17.6,11.11,11.81
+Other,17793,3006,16.9,10.08,12.01
+Genitourinary,5002,709,14.2,11.28,10.99
+Digestive,9333,1114,11.9,9.78,10.96
+Injury,6853,766,11.2,9.01,12.83
+Musculoskeletal,4935,495,10.0,10.30,9.46
+Neoplasms,3131,295,9.4,11.19,10.86

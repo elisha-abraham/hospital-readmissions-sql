@@ -1,0 +1,5 @@
+patient_group,sort_key,patients,pct_of_patients,stays,pct_of_stays,readmissions_30d,pct_of_readmissions
+1 stay,1,53649,76.7,53649,54.0,2287,20.2
+2 stays,2,10218,14.6,20436,20.6,3108,27.5
+3-4 stays,3,4587,6.6,15115,15.2,3046,26.9
+5 or more stays,5,1536,2.2,10143,10.2,2873,25.4

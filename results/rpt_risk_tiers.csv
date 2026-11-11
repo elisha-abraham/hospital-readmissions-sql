@@ -1,0 +1,5 @@
+risk_tier,risk_tier_order,stays,pct_of_stays,readmissions,readmission_rate_pct,pct_of_readmissions,lift,cumulative_pct_of_stays,cumulative_pct_of_readmissions
+Very high,4,1052,3.6,286,27.19,8.4,2.37,3.6,8.4
+High,3,4527,15.3,917,20.26,27.0,1.76,18.9,35.4
+Moderate,2,13094,44.2,1527,11.66,44.9,1.01,63.1,80.3
+Low,1,10918,36.9,670,6.14,19.7,0.53,100.0,100.0

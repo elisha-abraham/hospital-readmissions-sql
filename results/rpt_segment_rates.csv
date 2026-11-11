@@ -1,0 +1,54 @@
+dimension,dimension_order,segment,segment_order,stays,readmissions,rate_pct,ci_low_pct,ci_high_pct,ratio_to_average
+Prior inpatient stays (past year),1,0,0,66245,5690,8.59,8.38,8.81,0.75
+Prior inpatient stays (past year),1,1,1,18984,2516,13.25,12.78,13.74,1.16
+Prior inpatient stays (past year),1,2,2,7300,1309,17.93,17.07,18.83,1.57
+Prior inpatient stays (past year),1,3,3,3271,688,21.03,19.67,22.46,1.85
+Prior inpatient stays (past year),1,4,4,1574,380,24.14,22.09,26.32,2.12
+Prior inpatient stays (past year),1,5 or more,5,1969,731,37.13,35.02,39.28,3.26
+Prior emergency visits (past year),2,0,0,88249,9431,10.69,10.48,10.89,0.94
+Prior emergency visits (past year),2,1,1,7474,1097,14.68,13.89,15.5,1.29
+Prior emergency visits (past year),2,2,2,1984,372,18.75,17.09,20.53,1.65
+Prior emergency visits (past year),2,3 or more,3,1636,414,25.31,23.26,27.47,2.22
+Discharge destination,3,Rehabilitation facility,0,1993,552,27.7,25.78,29.7,2.43
+Discharge destination,3,Transferred to another facility,0,3462,640,18.49,17.23,19.81,1.62
+Discharge destination,3,Skilled nursing or long-term care,0,15292,2215,14.48,13.94,15.05,1.27
+Discharge destination,3,Left against medical advice,0,623,90,14.45,11.9,17.42,1.27
+Discharge destination,3,Home with home health,0,13010,1653,12.71,12.14,13.29,1.12
+Discharge destination,3,Other or unknown,0,4729,562,11.88,10.99,12.84,1.04
+Discharge destination,3,Home,0,60234,5602,9.3,9.07,9.53,0.82
+Length of stay,4,1-2 days,1,30715,2864,9.32,9,9.65,0.82
+Length of stay,4,3-4 days,2,31116,3524,11.33,10.98,11.68,0.99
+Length of stay,4,5-7 days,3,22800,2889,12.67,12.25,13.11,1.11
+Length of stay,4,8-14 days,4,14712,2037,13.85,13.3,14.41,1.22
+Number of diagnoses,5,1-5,1,20864,1782,8.54,8.17,8.93,0.75
+Number of diagnoses,5,6-8,2,30560,3414,11.17,10.82,11.53,0.98
+Number of diagnoses,5,9 or more,3,47919,6118,12.77,12.47,13.07,1.12
+Age band,6,[0-10),0,160,3,1.88,0.64,5.37,0.16
+Age band,6,[10-20),10,690,40,5.8,4.29,7.8,0.51
+Age band,6,[20-30),20,1649,236,14.31,12.7,16.08,1.26
+Age band,6,[30-40),30,3764,424,11.26,10.29,12.31,0.99
+Age band,6,[40-50),40,9607,1024,10.66,10.06,11.29,0.94
+Age band,6,[50-60),50,17060,1667,9.77,9.33,10.23,0.86
+Age band,6,[60-70),60,22059,2493,11.3,10.89,11.73,0.99
+Age band,6,[70-80),70,25331,3054,12.06,11.66,12.46,1.06
+Age band,6,[80-90),80,16434,2065,12.57,12.07,13.08,1.1
+Age band,6,[90-100),90,2589,308,11.9,10.71,13.2,1.04
+Primary diagnosis,7,Unknown,0,20,5,25,11.19,46.87,2.2
+Primary diagnosis,7,Diabetes,0,8661,1135,13.1,12.41,13.83,1.15
+Primary diagnosis,7,Injury,0,6853,850,12.4,11.64,13.2,1.09
+Primary diagnosis,7,Circulatory,0,29681,3469,11.69,11.33,12.06,1.03
+Primary diagnosis,7,Other,0,17793,2079,11.68,11.22,12.16,1.03
+Primary diagnosis,7,Genitourinary,0,5002,552,11.04,10.2,11.93,0.97
+Primary diagnosis,7,Neoplasms,0,3131,341,10.89,9.85,12.03,0.96
+Primary diagnosis,7,Digestive,0,9333,1010,10.82,10.21,11.47,0.95
+Primary diagnosis,7,Respiratory,0,13934,1402,10.06,9.57,10.57,0.88
+Primary diagnosis,7,Musculoskeletal,0,4935,471,9.54,8.76,10.4,0.84
+Sex,8,Female,0,53455,6128,11.46,11.2,11.74,1.01
+Sex,8,Male,0,45885,5186,11.3,11.02,11.6,0.99
+Sex,8,Not recorded,0,3,0,0,-0,56.15,0
+Race,9,Caucasian,0,74354,8583,11.54,11.32,11.78,1.01
+Race,9,AfricanAmerican,0,18772,2150,11.45,11.01,11.92,1.01
+Race,9,Asian,0,617,66,10.7,8.5,13.38,0.94
+Race,9,Hispanic,0,2027,210,10.36,9.11,11.76,0.91
+Race,9,Other,0,1481,142,9.59,8.19,11.19,0.84
+Race,9,Not recorded,0,2092,163,7.79,6.72,9.02,0.68
