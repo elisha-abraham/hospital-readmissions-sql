@@ -1,0 +1,11 @@
+# generated files
+build/
+__pycache__/
+*.pyc
+
+# the archive duplicates the two CSV files beside it
+data/raw/*.zip
+
+# never commit credentials
+*.cnf
+.env
