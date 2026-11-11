@@ -191,4 +191,4 @@ Code in this repository: MIT licence.
 ## Author
 
 **Elisha Abraham** is a healthcare and research data analyst with clinical training in nursing.
-[LinkedIn](https://www.linkedin.com/in/elisha-abraham-a90569352) · [GitHub](https://github.com/elisha-abraham)
+[LinkedIn](https://www.linkedin.com/in/elisha-abraham-a90569352) · [GitHub](https://github.com/elisha-abraham) · elishaabraham25@gmail.com
